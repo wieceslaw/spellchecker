@@ -19,7 +19,7 @@ make -C .build clean
 ## Run
 
 ```bash
-.build/lab0 file [options]
+.build/01-spellchecker file [options]
 
 Options:
 -i <double>
